@@ -1,3 +1,3 @@
-# Wonderland Decryptor
+# Wonderland Renamer
 
-A tool to rename the Wonderland Adventures files to their decrypted names.
+ Tools to rename the Wonderland Adventures files to their encrypted/decrypted names.
